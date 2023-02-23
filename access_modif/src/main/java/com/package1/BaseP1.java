@@ -14,6 +14,8 @@ public class BaseP1 {
     public void func1() {
         System.out.println(i_am_private);
         System.out.println(i_am_default);
+
+        System.out.println("I am papa");
     }
 
 }

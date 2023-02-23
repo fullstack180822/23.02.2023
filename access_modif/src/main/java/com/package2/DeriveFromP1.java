@@ -21,6 +21,6 @@ public class DeriveFromP1 extends BaseP1 {
 
     @Override
     public void func1() {
-
+        System.out.println("I am son");
     }
 }
